@@ -1,8 +1,9 @@
-REM disclaimer
-Holiwis, We are about to override files from age of empires, if you want it back how it was youll need to reinstall.
-pause
 
 @echo off
+REM disclaimer
+echo Holiwis, We are about to override files from age of empires, if you want it back how it was youll need to reinstall.
+pause
+
 REM Get the global path where the script is executing from
 set "scriptPath=%~dp0"
 
